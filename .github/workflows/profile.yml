@@ -1,0 +1,59 @@
+name: 🚀 Muhamad Imran Profile Engine
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  profile-engine:
+    name: ⚡ Generate Profile Animations
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # =========================================
+      # CHECKOUT
+      # =========================================
+
+      - name: 📦 Checkout Repository
+        uses: actions/checkout@v4
+
+
+      # =========================================
+      # CONTRIBUTION SNAKE
+      # =========================================
+
+      - name: 🐍 Generate Contribution Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Imrannro
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+
+      # =========================================
+      # 3D CONTRIBUTION GRAPH
+      # =========================================
+
+      - name: 🌌 Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Imrannro
+
+
+      # =========================================
+      # SAVE EVERYTHING
+      # =========================================
+
+      - name: 💾 Update Profile Assets
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: update Muhamad Imran profile animations"
+          add: "dist profile-3d-contrib"
