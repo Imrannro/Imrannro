@@ -1,59 +1,31 @@
-name: 🚀 Muhamad Imran Profile Engine
+name: Generate Contribution Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
-
-  workflow_dispatch:
+  workflow_dispatch: {}
+  push:
+    branches: [main]
 
 permissions:
   contents: write
 
 jobs:
-  profile-engine:
-    name: ⚡ Generate Profile Animations
+  generate-snake:
     runs-on: ubuntu-latest
-
     steps:
-
-      # =========================================
-      # CHECKOUT
-      # =========================================
-
-      - name: 📦 Checkout Repository
-        uses: actions/checkout@v4
-
-
-      # =========================================
-      # CONTRIBUTION SNAKE
-      # =========================================
-
-      - name: 🐍 Generate Contribution Snake
+      - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: Imrannro
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-
-      # =========================================
-      # 3D CONTRIBUTION GRAPH
-      # =========================================
-
-      - name: 🌌 Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Imrannro
-
-
-      # =========================================
-      # SAVE EVERYTHING
-      # =========================================
-
-      - name: 💾 Update Profile Assets
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "chore: update Muhamad Imran profile animations"
-          add: "dist profile-3d-contrib"
