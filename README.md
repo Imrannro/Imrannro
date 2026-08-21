@@ -1,185 +1,133 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Banner" />
+<img src="https://github.com/Imrannro/Imrannro/raw/main/assets/banner.svg" alt="banner" width="100%"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=SOFTWARE+ENGINEER+%7C+DEVOPS+%2B+WEB+DEVELOPER;GAME+DEVELOPER+%2B+DEVOPS+ENGINEER+%2B+TECH+ENTHUSIAST;BUILDING+SYSTEMS+THAT+ACTUALLY+WORK.;CODE+%E2%86%92+AUTOMATE+%E2%86%92+DEPLOY+%E2%86%92+IMPROVE" alt="typing svg"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=SOFTWARE+ENGINEER;DEVOPS+%7C+WEB+DEVELOPER;GAME+DEVELOPER+%7C+TECH+ENTHUSIAST;BUILDING+SYSTEMS+THAT+ACTUALLY+WORK.;CODE+%E2%86%92+AUTOMATE+%E2%86%92+DEPLOY+%E2%86%92+IMPROVE" alt="Typing SVG" />
+<br/>
 
-<br><br>
+<!-- Social Badges Row -->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imrannro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadimrandev10/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://imrannro.github.io/imran-portfolio/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranusman1710@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=Imrannro&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Imrannro&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
 
----
+<br/>
 
-# 👨‍💻 ABOUT ME
+<img src="https://github.com/Imrannro/Imrannro/raw/main/assets/game-divider.svg" width="100%"/>
 
-I'm **Muhamad Imran**, a Software Engineering graduate focused on building practical software, exploring modern development workflows, and continuously expanding into DevOps and infrastructure.
+## 👨‍💻 About Me
+
+I'm **Muhammad Imran**, a Software Engineering graduate focused on building practical software, exploring modern development workflows, and continuously expanding into DevOps and infrastructure.
 
 I enjoy working across the complete software lifecycle:
 
-```text
-             ┌──────────────┐
-             │     IDEA     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │    DESIGN    │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │   DEVELOP    │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │     TEST     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │   AUTOMATE   │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │    DEPLOY    │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │   IMPROVE    │
-             └──────┬───────┘
-                    │
-                    └───────────────↺
+```
+┌──────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
+│     IDEA     │ ──▶ │    DESIGN    │ ──▶ │   DEVELOP    │ ──▶ │     TEST     │
+└──────────────┘     └──────────────┘     └──────────────┘     └──────┬───────┘
+                                                                        ▼
+                      ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
+                      │   IMPROVE    │ ◀── │    DEPLOY    │ ◀── │   AUTOMATE   │
+                      └──────┬───────┘     └──────────────┘     └──────────────┘
+                              │
+                              └───────────────────────↺
 ```
 
-My main interests include:
+**Core interests:** Software Engineering · Web Development · DevOps · Automation · Game Development · UI/UX
 
-Software Engineering · Web Development · DevOps · Automation · Game Development · UI/UX
+<br/>
 
-## ⚡ ENGINEERING MINDSET
+## ⚡ Engineering Mindset
 
-Don't just write code. Understand the system.
+> *"Don't just write code. Understand the system."*
 
-I believe good engineering is about more than making something work.
+Good engineering is about more than making something work — it's understanding **why** it works, knowing **how** it can fail, and continuously improving how it's built, tested, deployed, and maintained.
 
-It's about understanding why it works, knowing how it can fail, and continuously improving how it is built, tested, deployed, and maintained.
-
-```text
-UNDERSTAND
-     ↓
-DESIGN
-     ↓
-BUILD
-     ↓
-DEBUG
-     ↓
-TEST
-     ↓
-AUTOMATE
-     ↓
-DEPLOY
-     ↓
-MONITOR
-     ↓
-OPTIMIZE
+```
+UNDERSTAND → DESIGN → BUILD → DEBUG → TEST → AUTOMATE → DEPLOY → MONITOR → OPTIMIZE
 ```
 
-## 🛠️ TECH STACK
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 LANGUAGES
-<img src="https://skillicons.dev/icons?i=python,js,html,css,godot" alt="Languages" />
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,java" /><br/><br/>
 
-<br><br>
+**Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github,flask,vscode" /><br/><br/>
 
-### 🌐 DEVELOPMENT
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github" alt="Development" />
+**DevOps & Infrastructure**
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,docker,githubactions,kubernetes,bash,kali" /><br/><br/>
 
-<br><br>
-
-### ⚙️ DEVOPS & INFRASTRUCTURE
-<img src="https://skillicons.dev/icons?i=linux,docker,githubactions" alt="DevOps" />
-
-<br><br>
-
-### 🎨 DESIGN & CREATIVE DEVELOPMENT
-<img src="https://skillicons.dev/icons?i=blender" alt="Design" />
+**Design & Creative Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=blender,threejs,figma" /><br/>
 
 </div>
 
-<br>
+<img src="https://github.com/Imrannro/Imrannro/raw/main/assets/game-divider.svg" width="100%"/>
 
-<div align="center">
-  <img src="./assets/game-divider.svg" width="100%" alt="Divider" />
-</div>
+## 🎮 Game Development
 
-## 🎮 GAME DEVELOPMENT
+### 🏰 Ranikot Chronicles — *Cinematic 3D Exploration Experience*
 
-<div align="center">
+A third-person cinematic exploration game inspired by Ranikot Fort, developed as my Software Engineering Final Year Project — combining programming, 3D environments, gameplay systems, animation, AI, audio, narrative design, and optimization into one complete interactive experience.
 
-### 🏰 RANIKOT CHRONICLES
-**CINEMATIC 3D EXPLORATION EXPERIENCE**
+**Gameplay Systems**
 
-</div>
+<table>
+<tr>
+<td>🎥 Third-Person Camera</td>
+<td>🏃 Character Movement</td>
+<td>⚔️ Combat Mechanics</td>
+</tr>
+<tr>
+<td>🤖 Enemy AI</td>
+<td>🧩 Puzzle Mechanics</td>
+<td>🧠 Choice-Based Narrative</td>
+</tr>
+<tr>
+<td>🎬 Cinematic Sequences</td>
+<td>🌍 3D Environment Design</td>
+<td>🎨 Animation Systems</td>
+</tr>
+<tr>
+<td>🔊 Ambient Audio & SFX</td>
+<td>💾 Game Systems</td>
+<td>⚡ Performance Optimization</td>
+</tr>
+</table>
 
-A third-person cinematic exploration game inspired by Ranikot Fort, developed as a Software Engineering Final Year Project.
+**Development Pipeline**
 
-The project combines programming, 3D environments, gameplay systems, animation, AI, audio, narrative design, and optimization into a complete interactive experience.
-
-### 🎮 GAMEPLAY SYSTEMS
-* 🎥 Third-Person Camera
-* 🏃 Character Movement
-* ⚔️ Combat Mechanics
-* 🤖 Enemy AI
-* 🧩 Puzzle Mechanics
-* 🧠 Choice-Based Narrative
-* 🎬 Cinematic Sequences
-* 🌍 3D Environment Design
-* 🎨 Animation Systems
-* 🔊 Ambient Audio & SFX
-* 💾 Game Systems
-* ⚡ Performance Optimization
-* 🎛️ UI / Menu Systems
-
-### 🧩 DEVELOPMENT PIPELINE
-
-```text
-                    BLENDER
-                       │
-                       ▼
-                ┌─────────────┐
-                │  3D ASSETS  │
-                └──────┬──────┘
-                       ↓
-                ┌─────────────┐
-                │ GODOT ENGINE│
-                └──────┬──────┘
-                       ↓
-                ┌─────────────┐
-                │   GDSCRIPT  │
-                └──────┬──────┘
-                       ↓
-        ┌──────────────┼──────────────┐
-        ↓              ↓              ↓
-     GAMEPLAY          AI         ANIMATION
-        │              │              │
-        └──────────────┼──────────────┘
-                       ↓
-                  AUDIO / SFX
-                       ↓
-                  OPTIMIZATION
-                       ↓
-                  FINAL BUILD
 ```
-
-### 🔥 CORE FOCUS
+   BLENDER  →  3D ASSETS  →  GODOT ENGINE  →  GDSCRIPT
+                                                   │
+                        ┌──────────────────────────┼──────────────────────────┐
+                        ▼                          ▼                          ▼
+                    GAMEPLAY                       AI                    ANIMATION
+                        │                          │                          │
+                        └──────────────────────────┼──────────────────────────┘
+                                                   ▼
+                                            AUDIO / SFX → OPTIMIZATION → FINAL BUILD
+```
 
 | Area | Technologies |
-| :--- | :--- |
+|---|---|
 | **Engine** | Godot |
 | **Language** | GDScript |
-| **3D** | Blender |
+| **3D Assets** | Blender |
 | **Rendering** | OpenGL |
 | **Gameplay** | Character / Combat / Puzzle |
 | **AI** | Enemy Behaviors |
@@ -187,170 +135,133 @@ The project combines programming, 3D environments, gameplay systems, animation, 
 | **Audio** | Ambient / SFX |
 | **Optimization** | Low-to-Mid Range PCs |
 
-## 🚀 PROJECT SHOWCASE
+<img src="https://github.com/Imrannro/Imrannro/raw/main/assets/game-divider.svg" width="100%"/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎮 Ranikot Chronicles</h3>
-      <p><b>Cinematic 3D Game</b></p>
-      <p><i>Godot · GDScript · Blender</i></p>
-      <p>Third-person exploration with gameplay systems, AI, animation, puzzles, narrative, and environmental design.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 E-Commerce Platform</h3>
-      <p><b>Web Application</b></p>
-      <p><i>JavaScript · HTML · CSS · REST APIs</i></p>
-      <p>A practical e-commerce application exploring frontend, backend, API, and database architecture.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Voice Assistant</h3>
-      <p><b>AI / Automation</b></p>
-      <p><i>Python · AI</i></p>
-      <p>Voice interaction and automation focused project exploring intelligent software behavior.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Developer Portfolio</h3>
-      <p><b>Web / UI</b></p>
-      <p><i>HTML · CSS · JavaScript</i></p>
-      <p>Responsive portfolio experience designed to present projects, skills, and development work.</p>
-    </td>
-  </tr>
-</table>
+## 🚀 Project Showcase
 
-## ⚙️ DEVOPS MINDSET
+<div align="center">
+
+[![E-commerce Claude](https://github-readme-stats.vercel.app/api/pin/?username=Imrannro&repo=E-commerce-claude&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF)](https://github.com/Imrannro/E-commerce-claude)
+[![SoftForge](https://github-readme-stats.vercel.app/api/pin/?username=Imrannro&repo=SoftForge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF)](https://github.com/Imrannro/SoftForge)
+
+[![GTIACTIONS](https://github-readme-stats.vercel.app/api/pin/?username=Imrannro&repo=GTIACTIONS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF)](https://github.com/Imrannro/GTIACTIONS)
+[![Number Converter](https://github-readme-stats.vercel.app/api/pin/?username=Imrannro&repo=Number-converter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF)](https://github.com/Imrannro/Number-converter)
+
+</div>
+
+| Repo | Type | Stack | What it does |
+|---|---|---|---|
+| 🛒 [**E-commerce-claude**](https://github.com/Imrannro/E-commerce-claude) | Web App | JavaScript, HTML, CSS | Full e-commerce app — product listing, cart, checkout flow |
+| ⚙️ [**SoftForge**](https://github.com/Imrannro/SoftForge) | Web / Tooling | TypeScript | Software engineering utility project built in TypeScript |
+| 🔁 [**GTIACTIONS**](https://github.com/Imrannro/GTIACTIONS) | DevOps | GitHub Actions, YAML | CI/CD pipeline experiments & automated workflow configs |
+| 🔢 [**Number-converter**](https://github.com/Imrannro/Number-converter) | Utility | — | Number base/unit conversion tool |
+| 🎬 [**Netflix-**](https://github.com/Imrannro/Netflix-) | Web (Archived) | HTML | Netflix landing page clone — UI/CSS practice |
+| 📘 [**learning-git**](https://github.com/Imrannro/learning-git) | Learning | JavaScript | Git & GitHub workflow practice repo |
+
+<img src="https://github.com/Imrannro/Imrannro/raw/main/assets/game-divider.svg" width="100%"/>
+
+## ⚙️ DevOps Mindset
 
 I'm interested in the complete path from source code to production.
 
-```text
-        👨‍💻 CODE
-           │
-           ▼
-        🔀 GIT PUSH
-           │
-           ▼
-      ⚙️ CI / BUILD
-           │
-           ▼
-        🧪 TEST
-           │
-           ▼
-      🐳 DOCKER
-           │
-           ▼
-      🚀 DEPLOY
-           │
-           ▼
-      📊 MONITOR
-           │
-           ▼
-      🔧 IMPROVE
-           │
-           └───────────────↺
+```
+👨‍💻 CODE → 🔀 GIT PUSH → ⚙️ CI/BUILD → 🧪 TEST → 🐳 DOCKER → 🚀 DEPLOY → 📊 MONITOR → 🔧 IMPROVE
+                                                                                            │
+                                                                            ↺───────────────┘
 ```
 
-### CURRENTLY EXPLORING
+**Currently exploring:** CI/CD · Docker · Linux · GitHub Actions · Automation · Cloud · Deployment · Monitoring
 
-CI/CD · Docker · Linux · GitHub Actions · Automation · Cloud · Deployment · Monitoring
+<br/>
 
-## 🧠 CURRENT LEARNING
+## 🧠 Current Learning
 
 ```text
-Software Engineering     ████████████████████
-Web Development          ███████████████████░
-DevOps / CI-CD           ████████████████░░░░
-Linux / Automation       ███████████████░░░░░
-Docker                   ██████████████░░░░░░
-Cloud                    ████████████░░░░░░░░
-Game Development         ███████████████░░░░░
+Software Engineering     ████████████████████ 100%
+Web Development          ███████████████████░  95%
+DevOps / CI-CD           ████████████████░░░░  80%
+Linux / Automation       ███████████████░░░░░  75%
+Docker                   ██████████████░░░░░░  70%
+Cloud                    ████████████░░░░░░░░  60%
+Game Development         ███████████████░░░░░  75%
 ```
 
-## 📊 GITHUB ANALYTICS
+<img src="https://github.com/Imrannro/Imrannro/raw/main/assets/game-divider.svg" width="100%"/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Imrannro&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imrannro&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Imrannro&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imrannro&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
 </div>
-
-<br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Imrannro&theme=tokyonight&hide_border=true" width="70%" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=Imrannro&theme=tokyonight&hide_border=true" />
 </div>
 
-## 🏆 GITHUB TROPHIES
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Imrannro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Imrannro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </div>
 
-## 🐍 CONTRIBUTION ANIMATION
+> **Note:** Trophies are earned automatically based on real GitHub activity (commits, PRs, stars, followers, repos). They'll fill in and upgrade the more you push, star, and collaborate — nothing to configure, this updates itself live.
+
+<img src="https://github.com/Imrannro/Imrannro/raw/main/assets/game-divider.svg" width="100%"/>
+
+## 🐍 Contribution Animation
 
 <div align="center">
-  <img src="./dist/github-snake-dark.svg" width="100%" alt="Snake Animation" />
+<img src="https://github.com/Imrannro/Imrannro/raw/main/dist/github-snake-dark.svg" alt="snake animation" width="100%"/>
 </div>
 
-## 🌌 3D CONTRIBUTION GRAPH
+## 🌌 3D Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
+<img src="https://github.com/Imrannro/Imrannro/raw/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%"/>
 </div>
 
-## 🔬 HOW I BUILD
+<img src="https://github.com/Imrannro/Imrannro/raw/main/assets/game-divider.svg" width="100%"/>
+
+## 🔬 How I Build
 
 ```python
 class Engineer:
 
     def solve(self, problem):
-
         understand(problem)
-
         architecture = design(problem)
-
         solution = build(architecture)
 
         while not production_ready(solution):
-
             test(solution)
             debug(solution)
             optimize(solution)
 
         automate(solution)
-
         deploy(solution)
 
         return "continuous improvement"
 ```
 
-## 🎯 CURRENT MISSION
+## 🎯 Current Mission
 
-```text
+```
 ┌──────────────────────────────────────────────┐
-│              ENGINEERING MISSION             │
+│              ENGINEERING MISSION              │
 ├──────────────────────────────────────────────┤
-│                                              │
-│  [██████████████████████████████████████]    │
-│  BUILD                                       │
-│                                              │
-│  [██████████████████████████████████████]    │
-│  LEARN                                       │
-│                                              │
-│  [████████████████████████████████████░░]    │
-│  AUTOMATE                                    │
-│                                              │
-│  [███████████████████████████████░░░░░░░]    │
-│  SCALE                                       │
-│                                              │
+│  BUILD      [████████████████████████████]   │
+│  LEARN      [████████████████████████████]   │
+│  AUTOMATE   [████████████████████████░░░░]   │
+│  SCALE      [███████████████████░░░░░░░░░]   │
 └──────────────────────────────────────────────┘
 ```
 
-### LONG-TERM DIRECTION
+**Long-term direction:** Software Engineering → DevOps → Automation → Cloud → Scalable Systems
 
-Software Engineering → DevOps → Automation → Cloud → Scalable Systems
+<br/>
 
-## 💡 ENGINEERING PRINCIPLES
+## 💡 Engineering Principles
 
 1. Learn continuously.
 2. Build real things.
@@ -363,27 +274,21 @@ Software Engineering → DevOps → Automation → Cloud → Scalable Systems
 9. Keep experimenting.
 10. Never stop improving.
 
-## 🤝 LET'S CONNECT
+<img src="https://github.com/Imrannro/Imrannro/raw/main/assets/game-divider.svg" width="100%"/>
 
 <div align="center">
-  <a href="https://github.com/Imrannro">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 
-<br><br>
+## 🤝 Let's Connect
 
-**OPEN TO**
+**Open to:** DevOps Engineer · Junior DevOps · Software Engineer · Web Developer · Open Source Collaboration
 
-Software Engineering · Web Development · DevOps · Open Source
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imrannro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadimrandev10/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://imrannro.github.io/imran-portfolio/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranusman1710@gmail.com)
 
-</div>
+### ⚡ BUILD. AUTOMATE. DEPLOY. EVOLVE.
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2CFF&height=120&section=footer" width="100%"/>
 
-<div align="center">
-  <h3>⚡ BUILD. AUTOMATE. DEPLOY. EVOLVE.</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2CFF&height=120&section=footer" alt="Footer Wave" />
 </div>
