@@ -265,7 +265,7 @@ Demo: [Link Pending]
 
 ## 02 — Personal Portfolio
 Web / UI / UX
-Personal developer portfolio showcasing projects
+Personal developer portfolio showcing projects
 Status: Live
 Repository: [Link Pending]
 Demo: [Link Pending]
