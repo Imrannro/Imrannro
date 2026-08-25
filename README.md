@@ -1,311 +1,463 @@
-# MUHAMAD IMRAN // DEVELOPER SYSTEM
-
 <div align="center">
 
+# `MUHAMAD IMRAN`
+
+### `SOFTWARE ENGINEER`
+
+**Building software, digital experiences & interactive worlds.**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Imrannro)
+[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python\&logoColor=3776AB)](#)
+[![Godot](https://img.shields.io/badge/Godot-000?style=for-the-badge\&logo=godotengine\&logoColor=478CBF)](#)
+[![DevOps](https://img.shields.io/badge/DevOps-000?style=for-the-badge\&logo=linux\&logoColor=FCC624)](#)
+
+<br>
+
 ```text
-MUHAMAD IMRAN
-SOFTWARE ENGINEER
-BUILDING SOFTWARE,
-DIGITAL EXPERIENCES &
-INTERACTIVE WORLDS.
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   SYSTEM        MUHAMAD IMRAN                               ║
+║   ROLE          SOFTWARE ENGINEER                           ║
+║   LOCATION      PAKISTAN                                   ║
+║   SPECIALTY     SOFTWARE / WEB / DEVOPS / GAME DEV          ║
+║   MODE          BUILDING                                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
+
 </div>
 
-<div align="center">
+---
+
+## `01 // IDENTITY`
 
 ```text
-SOFTWARE ENGINEERING
-WEB DEVELOPMENT
-DEVOPS
-GAME DEVELOPMENT
-UI / UX
+┌──[ imran@github ]───────────────────────────────────────────┐
+│                                                             │
+│  $ whoami                                                   │
+│  Muhamad Imran                                              │
+│                                                             │
+│  $ profession                                               │
+│  Software Engineer                                          │
+│                                                             │
+│  $ education                                                │
+│  BS Software Engineering — NUML Faisalabad                 │
+│                                                             │
+│  $ interests                                                │
+│  Software Engineering / Web / DevOps / Game Development     │
+│                                                             │
+│  $ mindset                                                  │
+│  Build → Break → Learn → Improve → Ship                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
+
+I'm a **Software Engineering graduate** interested in building practical software, web experiences, development systems, and interactive worlds.
+
+My work sits at the intersection of **engineering, automation, development, and design**.
+
+---
+
+## `02 // CORE SYSTEM`
+
+<table>
+<tr>
+<td width="50%">
+
+### SOFTWARE ENGINEERING
+
+* Python
+* JavaScript
+* HTML
+* CSS
+* REST APIs
+* Git
+* GitHub
+* Software Design
+* Testing & Debugging
+
+</td>
+<td width="50%">
+
+### DEVOPS
+
+* Linux
+* GitHub Actions
+* CI/CD
+* Docker
+* Automation
+* Version Control
+* Development Workflows
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### GAME DEVELOPMENT
+
+* Godot Engine
+* GDScript
+* Blender
+* 3D Development
+* Gameplay Systems
+* AI
+* Puzzle Mechanics
+* Narrative Systems
+
+</td>
+<td>
+
+### DESIGN
+
+* UI/UX
+* Graphic Design
+* Visual Design
+* Interface Design
+* User Experience
+
+</td>
+</tr>
+</table>
+
+---
+
+# `03 // FEATURED BUILD`
+
+<div align="center">
+
+## 🏰 `RANIKOT CHRONICLES`
+
+### `A 3D CINEMATIC EXPLORATION EXPERIENCE`
+
+**Inspired by Ranikot Fort**
+
 </div>
 
-<div align="center">
+> **Ranikot Chronicles** is a third-person cinematic PC exploration game developed with **Godot Engine**, combining exploration, atmosphere, gameplay systems, puzzles, AI, narrative elements, and a world inspired by Pakistan's Ranikot Fort.
 
 ```text
-LOCATION     PK
-STATUS       BUILDING
-FOCUS        ENGINEERING
-MODE         ACTIVE
+┌─────────────────────────────────────────────────────────────┐
+│                     RANIKOT CHRONICLES                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  ENGINE       Godot Engine                                  │
+│  LANGUAGE     GDScript                                      │
+│  WORLD        3D                                            │
+│  PLATFORM     PC                                            │
+│  MODELING     Blender                                       │
+│                                                             │
+│  SYSTEMS                                                   │
+│  ├── Third-Person Character                                │
+│  ├── Camera System                                          │
+│  ├── Character Movement                                     │
+│  ├── Combat Systems                                         │
+│  ├── AI Enemies                                             │
+│  ├── Puzzle Mechanics                                       │
+│  ├── Sanity System                                          │
+│  ├── Choice-Based Narrative                                 │
+│  ├── Audio Systems                                          │
+│  └── World / Map Design                                     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
-</div>
 
-<br/>
+### `ENGINEERING APPROACH`
 
-## 🧬 IDENTITY TERMINAL
-
-<div align="center">
+The project combines game development with software engineering concepts including:
 
 ```text
-┌─[ imran@github ]─────────────────────────────┐
-│                                              │
-│ $ whoami                                     │
-│ Muhamad Imran                                │
-│                                              │
-│ $ profession                                 │
-│ Software Engineer                            │
-│                                              │
-│ $ interests                                  │
-│ Web / DevOps / Game Development              │
-│                                              │
-│ $ philosophy                                 │
-│ Build → Learn → Improve → Ship               │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-</div>
-
-<br/>
-
-## 👨‍💻 ABOUT ME
-
-I'm a **Software Engineer** with a passion for building reliable software, engaging web experiences, and interactive worlds. My background in BS Software Engineering (NUML Faisalabad) has equipped me with the fundamentals, while hands-on projects have sharpened my skills in full-stack development, DevOps automation, and game creation. I continuously learn through building, breaking, and shipping.
-
-<br/>
-
-## ⚙️ TECH STACK
-
-<div align="center">
-
-```text
-SOFTWARE ENGINEERING
-Python • JavaScript • HTML • CSS • Git • GitHub
-
-WEB DEVELOPMENT
-Frontend • Backend • REST • Databases
-
-DEVOPS
-Linux • GitHub Actions • CI/CD • Docker • Automation
-
-GAME DEVELOPMENT
-Godot • GDScript • Blender • 3D Development
-
-DESIGN
-UI/UX • Graphic Design
-```
-</div>
-
-<br/>
-
-## 🏆 FLAGSHIP PROJECT
-
-# FEATURED // RANIKOT CHRONICLES
-
-A 3D third-person cinematic PC exploration game inspired by Ranikot Fort.
-
-**Stack:** Godot • GDScript • Blender • 3D  
-**Gameplay:** Third-person exploration, AI enemies, puzzle mechanics, choice-based narrative, sanity system, combat/movement  
-**Audio:** Positional and environmental sound design  
-**Optimization:** Targeted for low-to-mid-range PCs  
-**Status:** Alpha / Development  
-**Repository:** [Link Pending]  
-**Demo:** [Link Pending]
-
-<br/>
-
-## 📦 OTHER PROJECTS
-
-<div align="center">
-
-```text
-PROJECT                 DESCRIPTION                          STACK                         STATUS        REPO        DEMO
-Ranikot Chronicles      3D exploration game                  Godot, GDScript, Blender      Alpha         [Link]      [Link]
-Personal Portfolio      Developer portfolio showcase         HTML, CSS, JavaScript         Live          [Link]      [Link]
-E-Commerce Website      Full-stack e-commerce platform       JavaScript, HTML, CSS         Complete      [Link]      [Link]
-AI Voice Assistant      Python voice-controlled assistant    Python, AI, Automation        Prototype     [Link]      [Link]
-DevOps Projects         CI/CD pipelines & automation         GitHub Actions, Docker, Linux Ongoing     [Link]      [Link]
-```
-</div>
-
-<br/>
-
-## 🏗️ ENGINEERING // HOW I BUILD
-
-<div align="center">
-
-```text
-IDEA
- ↓
-DESIGN
- ↓
-DEVELOP
- ↓
-TEST
- ↓
-VERSION CONTROL
- ↓
-AUTOMATE
- ↓
-DEPLOY
-```
-</div>
-
-My engineering approach centers on turning ideas into reliable, maintainable systems. I emphasize version control from the start, automate repetitive tasks, and validate through testing before deployment.
-
-<br/>
-
-## ☁️ DEVOPS COMMAND CENTER
-
-<div align="center">
-
-```text
-CODE
- ↓
-GIT
- ↓
-CI
- ↓
-TEST
- ↓
-BUILD
- ↓
-PACKAGE
- ↓
-DEPLOY
-```
-</div>
-
-I leverage Git for version control, GitHub Actions for continuous integration and delivery, Docker for containerization, and Linux-based environments for consistent automation. This pipeline ensures code quality and efficient delivery.
-
-<br/>
-
-## 🧪 DEVELOPMENT SYSTEMS
-
-<div align="center">
-
-```text
-VERSION CONTROL
-AUTOMATION
-TESTING
-DEBUGGING
+SCENE-BASED ARCHITECTURE
+        ↓
+MODULAR GAME SYSTEMS
+        ↓
+SIGNALS & COMMUNICATION
+        ↓
+GAMEPLAY LOGIC
+        ↓
+RESOURCE MANAGEMENT
+        ↓
+TESTING & DEBUGGING
+        ↓
 OPTIMIZATION
-DOCUMENTATION
 ```
-</div>
 
-These systems form the backbone of my development process, ensuring efficiency, reliability, and clarity in every project I undertake.
+The project is designed with **low-to-mid-range PC optimization** in mind.
 
-<br/>
+---
 
-## 🎮 GAME DEV // INTERACTIVE WORLDS
+# `04 // OTHER BUILDS`
 
-Game development is a key part of my creative engineering practice. Through projects like Ranikot Chronicles, I explore:
+### `01 — PERSONAL PORTFOLIO`
 
-* Godot Engine and GDScript for rapid 3D development
-* Blender for 3D modeling and animation
-* Gameplay systems: movement, combat, AI
-* Puzzle mechanics and narrative design
-* Audio integration and optimization
+A personal web portfolio focused on presenting my development work, skills, and projects through a custom interface.
 
-<br/>
+**Focus:** Web Development · UI/UX · Frontend
 
-## 🎨 UI / UX
+---
 
-I prioritize user-centered design in all my work, focusing on:
+### `02 — E-COMMERCE PLATFORM`
 
-* Intuitive interface design
-* Seamless user experience
-* Clear visual hierarchy
-* Thoughtful interaction patterns
-* Cohesive graphic design
+A web-based commerce project exploring frontend development, application structure, user interaction, and database-driven functionality.
 
-<br/>
+**Focus:** Web · Backend · Database
 
-## 📊 GITHUB TELEMETRY
+---
 
-<div align="center">
+### `03 — AI VOICE ASSISTANT`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imrannro&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imrannro&layout=compact&hide_border=true&theme=dark)
-![Streak Stats](https://streak-stats.demolab.com/?user=Imrannro&theme=dark&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Imrannro&theme=dark&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff)
-</div>
+A Python-based voice assistant project exploring speech interaction, automation, and AI-powered functionality.
 
-<p align="center"><em>System monitoring panels — using reliable, maintained services.</em></p>
+**Focus:** Python · AI · Automation
 
-<br/>
+---
 
-## 🐍 CONTRIBUTION SNAKE
+### `04 — DEVOPS / CI-CD PROJECTS`
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Imrannro/Imrannro/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
+Development and automation experiments involving source control, CI/CD workflows, Linux environments, and deployment concepts.
 
-<p align="center"><em>Generated via GitHub Actions workflow — see <code>.github/workflows/snake.yml</code></em></p>
+**Focus:** Git · GitHub Actions · CI/CD · Linux · Docker
 
-<br/>
+---
 
-## 🧠 CURRENT // FOCUS
-
-<div align="center">
+# `05 // ENGINEERING PIPELINE`
 
 ```text
-01  DEVOPS
-02  CLOUD
-03  CI/CD
-04  BACKEND
-05  SYSTEM DESIGN
-06  GAME DEVELOPMENT
-07  AI TOOLING
+                         ┌─────────────┐
+                         │    IDEA     │
+                         └──────┬──────┘
+                                │
+                                ▼
+                         ┌─────────────┐
+                         │    DESIGN   │
+                         └──────┬──────┘
+                                │
+                                ▼
+                         ┌─────────────┐
+                         │    BUILD    │
+                         └──────┬──────┘
+                                │
+                                ▼
+                         ┌─────────────┐
+                         │    TEST     │
+                         └──────┬──────┘
+                                │
+                                ▼
+                         ┌─────────────┐
+                         │     GIT     │
+                         └──────┬──────┘
+                                │
+                                ▼
+                         ┌─────────────┐
+                         │ AUTOMATION  │
+                         └──────┬──────┘
+                                │
+                                ▼
+                         ┌─────────────┐
+                         │    SHIP     │
+                         └─────────────┘
 ```
-</div>
 
-<br/>
+---
 
-## 📚 LEARNING LOOP
-
-<div align="center">
+# `06 // DEVOPS CONTROL`
 
 ```text
-LEARN
- ↓
-BUILD
- ↓
-BREAK
- ↓
-DEBUG
- ↓
-UNDERSTAND
- ↓
-SHIP
+┌─────────────────────────────────────────────────────────────┐
+│                    DEVOPS PIPELINE                          │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   CODE                                                      │
+│    │                                                        │
+│    ▼                                                        │
+│   GIT                                                        │
+│    │                                                        │
+│    ▼                                                        │
+│   CI                                                         │
+│    │                                                        │
+│    ▼                                                        │
+│   TEST                                                       │
+│    │                                                        │
+│    ▼                                                        │
+│   BUILD                                                      │
+│    │                                                        │
+│    ▼                                                        │
+│   PACKAGE                                                    │
+│    │                                                        │
+│    ▼                                                        │
+│   DEPLOY                                                     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
-</div>
 
-<br/>
+Areas I'm developing further:
 
-## 🛰️ DEVELOPER PHILOSOPHY
+**CI/CD · Docker · Linux · Automation · Cloud · Infrastructure**
 
-"I build to understand, break to learn, and ship to improve."
+---
 
-<br/>
-
-## 🌐 CONNECT
-
-# TRANSMISSION // CONNECT
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imrannro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadimrandev10/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://imrannro.github.io/imran-portfolio/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranusman1710@gmail.com)
-
-[ LINK PENDING ] — Additional contact methods forthcoming
-
-</div>
-
-<br/>
-
-## 🧿 FINAL FOOTER
-
-<div align="center">
+# `07 // DEVELOPMENT PHILOSOPHY`
 
 ```text
-────────────────────────────────────────────
-       BUILD. BREAK. LEARN. REPEAT.
-              MUHAMAD IMRAN
-────────────────────────────────────────────
+        LEARN
+          │
+          ▼
+        BUILD
+          │
+          ▼
+        BREAK
+          │
+          ▼
+        DEBUG
+          │
+          ▼
+      UNDERSTAND
+          │
+          ▼
+         SHIP
+          │
+          └───────────────► REPEAT
 ```
+
+> I learn fastest by turning ideas into working systems.
+
+---
+
+# `08 // CURRENT DIRECTIVES`
+
+```text
+[ ACTIVE ]
+
+01  █████████████████░░░  SOFTWARE ENGINEERING
+
+02  ███████████████░░░░░  DEVOPS / CI-CD
+
+03  ██████████████░░░░░░  WEB DEVELOPMENT
+
+04  █████████████░░░░░░░  BACKEND ENGINEERING
+
+05  ████████████░░░░░░░░  SYSTEM DESIGN
+
+06  ███████████░░░░░░░░░  GAME DEVELOPMENT
+
+07  ██████████░░░░░░░░░░  AI TOOLING
+```
+
+---
+
+# `09 // GITHUB TELEMETRY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Imrannro&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imrannro&layout=compact&hide_border=true&theme=transparent" height="170">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Imrannro&theme=transparent&hide_border=true" width="70%">
+
+</div>
+
+---
+
+# `10 // CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Imrannro/Imrannro/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+
+</div>
+
+---
+
+# `11 // TOOLCHAIN`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge\&logo=githubactions\&logoColor=2088FF)
+![Godot](https://img.shields.io/badge/Godot-111111?style=for-the-badge\&logo=godotengine\&logoColor=478CBF)
+![Blender](https://img.shields.io/badge/Blender-111111?style=for-the-badge\&logo=blender\&logoColor=F5792A)
+
+</div>
+
+---
+
+# `12 // PROFILE STATUS`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  SOFTWARE ENGINEERING       [ ACTIVE ]                       ║
+║  WEB DEVELOPMENT             [ ACTIVE ]                       ║
+║  DEVOPS                      [ LEARNING / BUILDING ]          ║
+║  GAME DEVELOPMENT            [ ACTIVE ]                       ║
+║  UI / UX                     [ ACTIVE ]                       ║
+║  OPEN SOURCE                 [ EXPLORING ]                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# `13 // THE NEXT BUILD`
+
+Currently expanding my knowledge across:
+
+* Advanced DevOps
+* CI/CD
+* Cloud Engineering
+* Backend Development
+* System Design
+* Automation
+* Game Development
+* AI-assisted development
+
+---
+
+# `14 // TRANSMISSION`
+
+<div align="center">
+
+### LET'S BUILD SOMETHING.
+
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Imrannro)
+
+**LinkedIn:** `LINK_PENDING`
+**Portfolio:** `LINK_PENDING`
+**Email:** `LINK_PENDING`
+
+<br>
+
+```text
+BUILD.
+BREAK.
+LEARN.
+IMPROVE.
+SHIP.
+```
+
+<br>
+
+### `MUHAMAD IMRAN // SOFTWARE ENGINEER`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Imrannro&style=for-the-badge&color=111111&label=PROFILE+VISITS">
+
 </div>
