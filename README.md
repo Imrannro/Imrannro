@@ -1,40 +1,34 @@
-# RANIKOT // COMMAND CENTER
+# MUHAMAD IMRAN // DEVELOPER SYSTEM
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════╗
-
-              R A N I K O T   //   0 1
-
-                 MUHAMAD IMRAN
-
-              SOFTWARE ENGINEER
-
-     BUILDING SYSTEMS BEYOND THE INTERFACE
-
-╚══════════════════════════════════════════════════════╝
-```
-
-```text
-SYSTEM        ONLINE
-LOCATION      PK
-SPECIALTY     SOFTWARE ENGINEERING
-FOCUS         DEVOPS / WEB / GAME DEVELOPMENT
-UPTIME        LEARNING...
+MUHAMAD IMRAN
+SOFTWARE ENGINEER
+BUILDING SOFTWARE,
+DIGITAL EXPERIENCES &
+INTERACTIVE WORLDS.
 ```
 </div>
 
-<br/>
+<div align="center">
+
+```text
+SOFTWARE ENGINEERING
+WEB DEVELOPMENT
+DEVOPS
+GAME DEVELOPMENT
+UI / UX
+```
+</div>
 
 <div align="center">
 
 ```text
-● SYSTEM ONLINE
-● BUILD PIPELINE READY
-● DEVOPS ACTIVE
-● RANIKOT PROJECT ONLINE
-● CODEBASE EVOLVING
+LOCATION     PK
+STATUS       BUILDING
+FOCUS        ENGINEERING
+MODE         ACTIVE
 ```
 </div>
 
@@ -45,192 +39,181 @@ UPTIME        LEARNING...
 <div align="center">
 
 ```text
-┌─[ imran@ranikot ]───────────────────────────────┐
-│                                                 │
-│ $ whoami                                        │
-│ Muhamad Imran                                   │
-│                                                 │
-│ $ role                                           │
-│ Software Engineer                               │
-│                                                 │
-│ $ specialization                                │
-│ Web / DevOps / Game Development                 │
-│                                                 │
-│ $ philosophy                                    │
-│ Build → Break → Learn → Improve → Ship         │
-│                                                 │
-└─────────────────────────────────────────────────┘
+┌─[ imran@github ]─────────────────────────────┐
+│                                              │
+│ $ whoami                                     │
+│ Muhamad Imran                                │
+│                                              │
+│ $ profession                                 │
+│ Software Engineer                            │
+│                                              │
+│ $ interests                                  │
+│ Web / DevOps / Game Development              │
+│                                              │
+│ $ philosophy                                 │
+│ Build → Learn → Improve → Ship               │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 </div>
 
 <br/>
 
-# 🏰 MISSION // RANIKOT CHRONICLES
+## 👨‍💻 ABOUT ME
 
-**A 3D cinematic exploration experience inspired by Ranikot Fort.**
+I'm a **Software Engineer** with a passion for building reliable software, engaging web experiences, and interactive worlds. My background in BS Software Engineering (NUML Faisalabad) has equipped me with the fundamentals, while hands-on projects have sharpened my skills in full-stack development, DevOps automation, and game creation. I continuously learn through building, breaking, and shipping.
+
+<br/>
+
+## ⚙️ TECH STACK
 
 <div align="center">
 
 ```text
-ENGINE       GODOT
-LANGUAGE     GDSCRIPT
-DIMENSION    3D
-PLATFORM     PC
-STATUS       ALPHA / DEVELOPMENT
-FOCUS        EXPLORATION • NARRATIVE • AI • PUZZLES
-```
-</div>
+SOFTWARE ENGINEERING
+Python • JavaScript • HTML • CSS • Git • GitHub
 
-Third-person cinematic 3D exploration game inspired by Ranikot Fort, Sindh — built as my Final Year Project. Led a 3-person team through the full SDLC: gameplay systems, 3D environments, enemy AI, animation, and narrative design.
+WEB DEVELOPMENT
+Frontend • Backend • REST • Databases
 
-Features:
-* Third-person exploration with smooth character movement
-* Cinematic presentation with dynamic camera sequencing
-* Pakistani historical inspiration from Ranikot Fort
-* AI enemies with patrol and chase behaviors
-* Puzzle mechanics integrating environment and logic
-* Choice-based narrative with branching dialogue
-* Sanity system affecting perception and gameplay
-* Combat systems with melee and ranged options
-* Audio design with positional and environmental effects
-* Optimized for low-to-mid-range PCs
+DEVOPS
+Linux • GitHub Actions • CI/CD • Docker • Automation
 
-<div align="center">
-```text
-BLENDER → 3D ASSETS → GODOT ENGINE → GDSCRIPT → GAMEPLAY + AI + ANIMATION → FINAL BUILD
+GAME DEVELOPMENT
+Godot • GDScript • Blender • 3D Development
+
+DESIGN
+UI/UX • Graphic Design
 ```
 </div>
 
 <br/>
 
-# 🗺️ RANIKOT HUD
+## 🏆 FLAGSHIP PROJECT
+
+# FEATURED // RANIKOT CHRONICLES
+
+A 3D third-person cinematic PC exploration game inspired by Ranikot Fort.
+
+**Stack:** Godot • GDScript • Blender • 3D  
+**Gameplay:** Third-person exploration, AI enemies, puzzle mechanics, choice-based narrative, sanity system, combat/movement  
+**Audio:** Positional and environmental sound design  
+**Optimization:** Targeted for low-to-mid-range PCs  
+**Status:** Alpha / Development  
+**Repository:** [Link Pending]  
+**Demo:** [Link Pending]
+
+<br/>
+
+## 📦 OTHER PROJECTS
 
 <div align="center">
 
 ```text
-MISSION: RANIKOT CHRONICLES
-
-LOCATION
-24° N / 67° E
-
-OBJECTIVE
-EXPLORE THE FORT
-
-SYSTEMS
-[████████░░] WORLD
-[███████░░░] AI
-[██████░░░░] PUZZLES
-[███████░░░] AUDIO
-
-BUILD
-ALPHA (DEVELOPMENT BUILD)
+PROJECT                 DESCRIPTION                          STACK                         STATUS        REPO        DEMO
+Ranikot Chronicles      3D exploration game                  Godot, GDScript, Blender      Alpha         [Link]      [Link]
+Personal Portfolio      Developer portfolio showcase         HTML, CSS, JavaScript         Live          [Link]      [Link]
+E-Commerce Website      Full-stack e-commerce platform       JavaScript, HTML, CSS         Complete      [Link]      [Link]
+AI Voice Assistant      Python voice-controlled assistant    Python, AI, Automation        Prototype     [Link]      [Link]
+DevOps Projects         CI/CD pipelines & automation         GitHub Actions, Docker, Linux Ongoing     [Link]      [Link]
 ```
 </div>
 
-<p align="center"><em>Visual representation only — fictional values for interface aesthetics.</em></p>
-
 <br/>
 
-# 🧱 ANCIENT × DIGITAL
+## 🏗️ ENGINEERING // HOW I BUILD
 
 <div align="center">
 
 ```text
-ANCIENT STRUCTURES
-        ↓
-DIGITAL WORLDS
-        ↓
-ENGINEERING SYSTEMS
-```
-</div>
-
-<p align="center"><em>Placeholder for Ranikot Fort imagery blended with digital grid.</em></p>
-
-<br/>
-
-# ⚙️ ENGINEERING CORE
-
-## SOFTWARE ENGINEERING
-Python • JavaScript • HTML • CSS • REST APIs • Git • GitHub
-
-## DEVOPS
-Linux • GitHub Actions • CI/CD • Docker • Cloud fundamentals • Automation
-
-## GAME DEVELOPMENT
-Godot • GDScript • Blender • 3D development
-
-## DESIGN
-UI/UX • Graphic Design • Visual Design
-
-<br/>
-
-# ☁️ DEVOPS COMMAND CENTER
-
-<div align="center">
-
-```text
-┌──────────── DEVOPS CONTROL ─────────────┐
-
-SOURCE
-Git / GitHub
-
-        ↓
-
-BUILD
-CI/CD
-
-        ↓
-
+IDEA
+ ↓
+DESIGN
+ ↓
+DEVELOP
+ ↓
 TEST
-Automated Validation
-
-        ↓
-
-PACKAGE
-Docker
-
-        ↓
-
+ ↓
+VERSION CONTROL
+ ↓
+AUTOMATE
+ ↓
 DEPLOY
-Cloud / Infrastructure
-
-└─────────────────────────────────────────┘
 ```
 </div>
 
-<p align="center"><em>Represents DevOps workflow interests and learning path — not claiming active production deployments.</em></p>
+My engineering approach centers on turning ideas into reliable, maintainable systems. I emphasize version control from the start, automate repetitive tasks, and validate through testing before deployment.
 
 <br/>
 
-# 🔥 CI/CD VISUALIZATION
+## ☁️ DEVOPS COMMAND CENTER
 
 <div align="center">
 
 ```text
 CODE
-  │
-  ▼
-COMMIT
-  │
-  ▼
-BUILD
-  │
-  ▼
+ ↓
+GIT
+ ↓
+CI
+ ↓
 TEST
-  │
-  ▼
+ ↓
+BUILD
+ ↓
 PACKAGE
-  │
-  ▼
+ ↓
 DEPLOY
 ```
 </div>
 
-<p align="center"><em>SVG animation would be ideal here — placeholder for pipeline visualization.</em></p>
+I leverage Git for version control, GitHub Actions for continuous integration and delivery, Docker for containerization, and Linux-based environments for consistent automation. This pipeline ensures code quality and efficient delivery.
 
 <br/>
 
-# 📊 GITHUB TELEMETRY
+## 🧪 DEVELOPMENT SYSTEMS
+
+<div align="center">
+
+```text
+VERSION CONTROL
+AUTOMATION
+TESTING
+DEBUGGING
+OPTIMIZATION
+DOCUMENTATION
+```
+</div>
+
+These systems form the backbone of my development process, ensuring efficiency, reliability, and clarity in every project I undertake.
+
+<br/>
+
+## 🎮 GAME DEV // INTERACTIVE WORLDS
+
+Game development is a key part of my creative engineering practice. Through projects like Ranikot Chronicles, I explore:
+
+* Godot Engine and GDScript for rapid 3D development
+* Blender for 3D modeling and animation
+* Gameplay systems: movement, combat, AI
+* Puzzle mechanics and narrative design
+* Audio integration and optimization
+
+<br/>
+
+## 🎨 UI / UX
+
+I prioritize user-centered design in all my work, focusing on:
+
+* Intuitive interface design
+* Seamless user experience
+* Clear visual hierarchy
+* Thoughtful interaction patterns
+* Cohesive graphic design
+
+<br/>
+
+## 📊 GITHUB TELEMETRY
 
 <div align="center">
 
@@ -244,7 +227,7 @@ DEPLOY
 
 <br/>
 
-# 🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Imrannro/Imrannro/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -254,89 +237,53 @@ DEPLOY
 
 <br/>
 
-# 🏛️ PROJECT ARCHIVE
-
-## 01 — Ranikot Chronicles
-Godot / GDScript / 3D
-Exploration game inspired by Ranikot Fort
-Status: Alpha / Development
-Repository: [Link Pending]
-Demo: [Link Pending]
-
-## 02 — Personal Portfolio
-Web / UI / UX
-Personal developer portfolio showcing projects
-Status: Live
-Repository: [Link Pending]
-Demo: [Link Pending]
-
-## 03 — E-Commerce Platform
-Web / Backend / Database
-Full-stack e-commerce with product catalog and cart
-Status: Complete
-Repository: [Link Pending]
-Demo: [Link Pending]
-
-## 04 — AI Voice Assistant
-Python / AI / Automation
-Voice-controlled assistant with natural language processing
-Status: Prototype
-Repository: [Link Pending]
-Demo: [Link Pending]
-
-## 05 — DevOps Projects
-CI/CD / GitHub Actions / Linux / Docker
-Automation pipelines, containerization, and infrastructure as code
-Status: Ongoing
-Repository: [Link Pending]
-Demo: [Link Pending]
-
-<br/>
-
-# 🧠 CURRENT DIRECTIVES
+## 🧠 CURRENT // FOCUS
 
 <div align="center">
 
 ```text
-[01] ADVANCED DEVOPS
-[02] CLOUD ENGINEERING
-[03] CI/CD AUTOMATION
-[04] BACKEND ENGINEERING
-[05] SYSTEM DESIGN
-[06] GAME DEVELOPMENT
+01  DEVOPS
+02  CLOUD
+03  CI/CD
+04  BACKEND
+05  SYSTEM DESIGN
+06  GAME DEVELOPMENT
+07  AI TOOLING
 ```
 </div>
 
 <br/>
 
-# 🧪 LEARNING PROTOCOL
+## 📚 LEARNING LOOP
 
 <div align="center">
 
 ```text
 LEARN
-   ↓
+ ↓
 BUILD
-   ↓
+ ↓
 BREAK
-   ↓
+ ↓
 DEBUG
-   ↓
+ ↓
 UNDERSTAND
-   ↓
+ ↓
 SHIP
 ```
 </div>
 
 <br/>
 
-# 🎯 ENGINEERING PHILOSOPHY
+## 🛰️ DEVELOPER PHILOSOPHY
 
-"I don't just want software to work. I want to understand why it works."
+"I build to understand, break to learn, and ship to improve."
 
 <br/>
 
-# 🛰️ TRANSMISSION // ESTABLISH CONNECTION
+## 🌐 CONNECT
+
+# TRANSMISSION // CONNECT
 
 <div align="center">
 
@@ -351,22 +298,14 @@ SHIP
 
 <br/>
 
+## 🧿 FINAL FOOTER
+
 <div align="center">
 
 ```text
-╔═════════════════════════════════════════════════════╗
-
-             CONNECTION ESTABLISHED
-
-          THANK YOU FOR VISITING
-
+────────────────────────────────────────────
+       BUILD. BREAK. LEARN. REPEAT.
               MUHAMAD IMRAN
-
-       SOFTWARE ENGINEER // PAKISTAN
-
-╚═════════════════════════════════════════════════════╝
+────────────────────────────────────────────
 ```
 </div>
-
-<!-- Optional footer animation placeholder -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2CFF&height=100&section=footer" width="100%"/>
