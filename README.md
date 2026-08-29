@@ -11,7 +11,7 @@ I build reliable software systems, automate infrastructure, and turn repetitive 
 
 ---
 
-### `whoami`
+## 🔧 Who I Am
 
 ```text
 Software Engineer
